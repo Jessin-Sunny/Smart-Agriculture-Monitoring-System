@@ -37,3 +37,34 @@ B --> E[L9110 Motor Driver]
 E --> F[Water Pump]
 B --> G[LCD Display]
 B --> H[LED Indicators & Buzzer]
+
+## 🧰 Circuit Diagram
+
+The following circuit diagram illustrates the interconnection between the ESP8266 NodeMCU, sensors, motor driver, pump, and alert units.  
+The ESP8266 acts as the brain of the system, processing inputs from soil moisture, temperature, and fire sensors, and controlling the pump, LEDs, and buzzer accordingly.
+
+![Circuit Diagram](images/circuit_diagram.jpg)
+
+**Key Connections:**
+- **A0:** Soil Moisture Sensor  
+- **D6:** DHT11 Temperature & Humidity Sensor  
+- **D5, D7:** L9110 Motor Driver (Pump Control)  
+- **D8:** Buzzer  
+- **D0:** Fire LED  
+- **D4:** Water Level LED  
+- **LCD:** Connected via I2C interface (SDA, SCL)
+
+## 📸 Prototype Images
+
+The final prototype integrates all hardware components, including the ESP8266 microcontroller, DHT11 sensor, soil moisture sensor, motor driver, LEDs, buzzer, and LCD.  
+Below are different views of the working prototype:
+
+### 🔹 Near View
+![Prototype – Near View](images/prototype_near.jpg)
+
+### 🔹 Front View
+![Prototype – Front View](images/prototype_front.jpg)
+
+### 🔹 Top View
+![Prototype – Top View](images/prototype_top.jpg)
+
