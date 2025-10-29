@@ -43,7 +43,7 @@ B --> H[LED Indicators & Buzzer]
 The following circuit diagram illustrates the interconnection between the ESP8266 NodeMCU, sensors, motor driver, pump, and alert units.  
 The ESP8266 acts as the brain of the system, processing inputs from soil moisture, temperature, and fire sensors, and controlling the pump, LEDs, and buzzer accordingly.
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](images/circuit_diagram.png)
 
 **Key Connections:**
 - **A0:** Soil Moisture Sensor  
