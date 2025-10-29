@@ -60,11 +60,11 @@ The final prototype integrates all hardware components, including the ESP8266 mi
 Below are different views of the working prototype:
 
 ### 🔹 Near View
-![Prototype – Near View](images/prototype_near.jpg)
+![Prototype – Near View](images/prototype2.jpg)
 
 ### 🔹 Front View
-![Prototype – Front View](images/prototype_front.jpg)
+![Prototype – Front View](images/prototype1.jpg)
 
 ### 🔹 Top View
-![Prototype – Top View](images/prototype_top.jpg)
+![Prototype – Top View](images/prototype3.jpg)
 
