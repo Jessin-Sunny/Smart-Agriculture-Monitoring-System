@@ -28,6 +28,8 @@ It provides **real-time monitoring**, **automatic pump control**, and **audio-vi
 
 ## 🧩 System Architecture
 
+Below is a simplified architecture diagram showing how sensors, the microcontroller, and actuators interact.
+
 ```mermaid
 graph TD
 A[Soil Moisture Sensor] --> B[ESP8266 NodeMCU]
@@ -36,7 +38,7 @@ D[Fire Sensor] --> B
 B --> E[L9110 Motor Driver]
 E --> F[Water Pump]
 B --> G[LCD Display]
-B --> H[LED Indicators & Buzzer]
+B --> H[LED Indicators &amp; Buzzer]
 
 ## 🧰 Circuit Diagram
 
