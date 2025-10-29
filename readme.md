@@ -139,35 +139,6 @@ Below are different views of the working prototype:
 
 ---
 
-## 🧩 Future Enhancements
-
-- ☁️ Cloud-based data logging and analytics  
-- 📱 Mobile app for remote monitoring and control  
-- 🤖 AI-based prediction models for irrigation scheduling  
-- ☀️ Solar-powered operation for sustainability  
-
----
-
-## 🧑‍💻 Authors
-
-| Name | Register No. |
-|------|---------------|
-| **Alwin Philip** | KTE22CS012 |
-| **Delsa Davis** | KTE22CS026 |
-| **Jessin Sunny** | KTE22CS036 |
-| **Jeswin T.J.** | KTE22CS037 |
-
----
-
-## 🏫 Institution
-
-**Rajiv Gandhi Institute of Technology, Kottayam**  
-Department of Electronics and Communication Engineering  
-**APJ Abdul Kalam Technological University (KTU)**  
-Kerala, India – November 2025  
-
----
-
 ## 📜 License
 
 This project is released under the **MIT License**.  
